@@ -65,8 +65,8 @@ src/
 ### 1. Clone repository
 
 ```bash
-git clone https://github.com/<your-username>/<repo>.git
-cd <repo>
+git clone https://github.com/avilavida/madrl-tfm.git
+cd madrl-tfm
 ```
 
 ### 2. Create environment
